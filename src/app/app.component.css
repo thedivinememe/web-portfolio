@@ -1,0 +1,35 @@
+#mainNav {
+    border: 1px solid white;
+    color: white;
+    font-size: 1.25em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    background-color: #002451;
+}
+
+body, html {
+    height: 100%;
+}
+
+.fill-space{
+    flex: 1 1 auto;
+}
+
+#homeDiv {
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: auto;
+    display: block;
+    background: rgba(204, 204, 204, 0.205);
+    height: 40%;
+}
+
+#roundHeadshot{
+    border-radius: 50%;
+    height: 150px;
+    border: 5px solid #002451;
+
+}
+
+#phoenixPic{
+    width: 100%;
+}
