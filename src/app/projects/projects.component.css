@@ -1,16 +1,5 @@
-.homeComponent{
+.projectComponent{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: bolder;
-}
-
-.column1{
-    width: 60%;
-}
-
-.column2{
-    width: 40%;
-}
-
-.centered{
     text-align: center;
 }
